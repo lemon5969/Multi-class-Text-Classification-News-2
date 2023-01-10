@@ -1,2 +1,2 @@
-# Multi-class-Text-Classification-News-2
- 
+# Multi-class Text Classification News
+ This project will categorize article or news
